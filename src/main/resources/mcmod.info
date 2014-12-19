@@ -1,0 +1,17 @@
+[
+{
+  "modid": "letsMod",
+  "name": "letsMod",
+  "description": "lets mod",
+  "version": "1.7.10-1.0",
+  "credits": "Created by TheStig_992",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "TheStig_992" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]
